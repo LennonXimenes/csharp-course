@@ -5,6 +5,7 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 ## Conteúdo
 
 ### Fundamentos de C#
+
 - Tipos de dados e variáveis
 - Estruturas de controle (if/else, switch, loops)
 - Manipulação de strings e arrays
@@ -12,6 +13,7 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 - Trabalhando com arquivos e streams
 
 ### Programação Orientada a Objetos
+
 - Classes e objetos
 - Encapsulamento (modificadores de acesso)
 - Herança e polimorfismo
@@ -20,6 +22,7 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 - Membros estáticos
 
 ### Tópicos Avançados
+
 - Coleções (List, Dictionary, HashSet)
 - Generics
 - Delegates e eventos
@@ -31,12 +34,14 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 ## Projetos
 
 ### 1. Sistema de Xadrez (Console)
+
 - Implementação completa das regras do xadrez
 - Movimentação especial (roque, en passant)
 - Lógica de xeque e xequemate
 - Validação de jogadas
 
 ### 2. CRUD com ASP.NET Core MVC
+
 - Aplicação web completa com Entity Framework
 - Operações CRUD (Create, Read, Update, Delete)
 - Validação de formulários
@@ -44,12 +49,14 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 - Bootstrap para interface responsiva
 
 ### 3. Sistema Bancário
+
 - Classes para contas corrente e poupança
 - Operações de depósito, saque e transferência
 - Registro de transações
 - Tratamento de exceções personalizadas
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
+
 - C# 10/.NET 6
 - Visual Studio 2022
 - ASP.NET Core MVC
@@ -57,7 +64,8 @@ Repositório contendo a implementação prática dos conceitos aprendidos no cur
 - LINQ
 - Bootstrap 5
 
-## 📚 Recursos Úteis
+## Recursos Úteis
+
 - [Documentação Oficial do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Microsoft Learn - C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 - [Entity Framework Documentation](https://docs.microsoft.com/pt-br/ef/)
