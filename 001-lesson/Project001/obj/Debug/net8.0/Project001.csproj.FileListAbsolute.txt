@@ -1,0 +1,14 @@
+/home/lennon/projects/curso-c#/001-lesson/Project001/bin/Debug/net8.0/Project001
+/home/lennon/projects/curso-c#/001-lesson/Project001/bin/Debug/net8.0/Project001.deps.json
+/home/lennon/projects/curso-c#/001-lesson/Project001/bin/Debug/net8.0/Project001.runtimeconfig.json
+/home/lennon/projects/curso-c#/001-lesson/Project001/bin/Debug/net8.0/Project001.dll
+/home/lennon/projects/curso-c#/001-lesson/Project001/bin/Debug/net8.0/Project001.pdb
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.GeneratedMSBuildEditorConfig.editorconfig
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.AssemblyInfoInputs.cache
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.AssemblyInfo.cs
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.csproj.CoreCompileInputs.cache
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.dll
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/refint/Project001.dll
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.pdb
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/Project001.genruntimeconfig.cache
+/home/lennon/projects/curso-c#/001-lesson/Project001/obj/Debug/net8.0/ref/Project001.dll
