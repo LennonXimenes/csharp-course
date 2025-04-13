@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKV8+m7sMpU=",
+  "dgSpecHash": "JlfRpEc8dCc=",
   "success": true,
-  "projectFilePath": "/home/lennon/projects/curso-c#/002-lesson/Project002/Project002.csproj",
+  "projectFilePath": "/home/lennon/projects/csharp-course/002-lesson/Project002/Project002.csproj",
   "expectedPackageFiles": [
     "/home/lennon/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
     "/home/lennon/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",

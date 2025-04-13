@@ -5,6 +5,8 @@
 
       byte x = 255;
 
+      x++;
+
       Console.WriteLine(x);
     }
   }
