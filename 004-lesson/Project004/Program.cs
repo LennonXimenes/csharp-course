@@ -16,7 +16,7 @@
 // Ex 06: Cálculo de áreas (triângulo, círculo, trapézio, quadrado, retângulo)
 // Entrada: 3.0 4.0 5.2 | Saída: TRIANGULO: 7.800 CIRCULO: 84.949
 
-// using System.Collections.Generic;
+using System.Collections.Generic;
 
 namespace FourthProject
 {
