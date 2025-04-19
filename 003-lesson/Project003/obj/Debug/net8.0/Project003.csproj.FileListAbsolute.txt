@@ -1,0 +1,15 @@
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.GeneratedMSBuildEditorConfig.editorconfig
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.AssemblyInfoInputs.cache
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.AssemblyInfo.cs
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.csproj.CoreCompileInputs.cache
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.sourcelink.json
+/home/lennon/projects/csharp-course/003-lesson/Project003/bin/Debug/net8.0/Project003
+/home/lennon/projects/csharp-course/003-lesson/Project003/bin/Debug/net8.0/Project003.deps.json
+/home/lennon/projects/csharp-course/003-lesson/Project003/bin/Debug/net8.0/Project003.runtimeconfig.json
+/home/lennon/projects/csharp-course/003-lesson/Project003/bin/Debug/net8.0/Project003.dll
+/home/lennon/projects/csharp-course/003-lesson/Project003/bin/Debug/net8.0/Project003.pdb
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.dll
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/refint/Project003.dll
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.pdb
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/Project003.genruntimeconfig.cache
+/home/lennon/projects/csharp-course/003-lesson/Project003/obj/Debug/net8.0/ref/Project003.dll
