@@ -1,0 +1,13 @@
+# Ignore as pastas de build
+bin/
+obj/
+
+# Ignore a pasta do Visual Studio Code
+.vscode/
+
+# Ignore arquivos específicos do NuGet
+*.nuget/
+
+# Ignore arquivos gerados
+*.user
+*.suo
