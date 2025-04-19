@@ -11,3 +11,6 @@ obj/
 # Ignore arquivos gerados
 *.user
 *.suo
+
+# Lembretes
+notes.txt
